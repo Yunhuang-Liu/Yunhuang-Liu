@@ -4,10 +4,10 @@
 >
 > 欢迎关注公众号或加入结构光三维重建技术QQ交流群！
 
--  🏡 公众号: <div align="center"><img src="asserts/wechat.png" width="50%"/></div>
+-  🏡 公众号: `实战3D视觉`
 - 💬 QQ群：`229441078`
 
-## 当前完成的博客内容：
+## 当前完成的博客内容：👋
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（0）：前言](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483677&idx=1&sn=3c08aa1db66ec9c1e60cb1279acc0fba&chksm=c15afbf2f62d72e470c86b24366fc7ac9252f28159edf9d434ba5ab9a603f98acb91b89e471b#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（1）：硬件搭建](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483747&idx=1&sn=4604770d6fe19d5bc390c13cba738b2c&chksm=c15afb8cf62d729ab5a5940fbdf37040ff4f9b9813b91b7132ea556f27e6f86e62168813a75d#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（2）：结构光3D相机搭建](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483758&idx=1&sn=0a52c3dbe1d72f10d60ec5334cd8d70c&chksm=c15afb81f62d7297ea314acb4171567d296ace5f6dd6ccb34db786c7402b18e85eb7a61fbad7#rd)
