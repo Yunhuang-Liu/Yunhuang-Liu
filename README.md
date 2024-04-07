@@ -1,21 +1,13 @@
-<h2><img src="asserts/hellokittydance.gif" alt="Hi" width="42"/>欢迎访问我的Github</h2>
-博主是一名三维重建算法工程师。<br/><br/>
-目前正在写一篇从零到一搭建结构光3D相机的博客，为什么会想到做这个呢？毕竟花时间也没啥收益。<br/><br/>
-我想每个人在刚开始入门结构光三维重建的时候，都会发现，资料参差不齐，甚至不知道自己应该学什么，做什么。博主的初衷是让每个入门结构光的人都能够快速进入自己的状态，知道自己的课题都有什么东西，都需要学习什么内容。<br/><br/>
-本着这份初心，博主开始着手攥写博客。我希望，这系列博客所能带给你的不仅仅是知识的扩充，更是对技术的热爱与渴望，对结构光三维重建技术的热爱与渴望！<br/><br/>
+## 欢迎访问我的Github 👋
 
-希望博主系列博客最后能够让你拥有自己拿得出手的软件与结构光3D相机。不论是找工作或是在学业上进一步深造，都能够有所帮助。
+> 我是一名三维重建算法工程师。
+>
+> 欢迎关注公众号或加入结构光三维重建技术QQ交流群！
 
-最后，也是为了满足博主的小成就感，希望各位多多关注一下公众号，相关文章都在公众号发布。并且对[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈点上右上角的`Star`⭐，让更多人知道它。
-<br />
-<br />
-<div align="center"><img src="asserts/wechat.png" width="60%"/></div>
-<br />
-<br />
-<p align="center"><strong><font color="green">✨关注博主公众号不迷路！ 👈</font></strong></p>
-<br/>
+-  🏡 公众号: <div align="center"><img src="asserts/wechat.png" width="50%"/></div>
+- 💬 QQ群：`229441078`
 
-**当前正在完成的系列博客内容：**
+## 当前完成的博客内容：
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（0）：前言](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483677&idx=1&sn=3c08aa1db66ec9c1e60cb1279acc0fba&chksm=c15afbf2f62d72e470c86b24366fc7ac9252f28159edf9d434ba5ab9a603f98acb91b89e471b#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（1）：硬件搭建](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483747&idx=1&sn=4604770d6fe19d5bc390c13cba738b2c&chksm=c15afb8cf62d729ab5a5940fbdf37040ff4f9b9813b91b7132ea556f27e6f86e62168813a75d#rd)
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（2）：结构光3D相机搭建](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483758&idx=1&sn=0a52c3dbe1d72f10d60ec5334cd8d70c&chksm=c15afb81f62d7297ea314acb4171567d296ace5f6dd6ccb34db786c7402b18e85eb7a61fbad7#rd)
@@ -29,29 +21,16 @@
 - [从0到1搭建一套属于你自己的高精度实时结构光3D相机（10）：基于绝对相位的立体匹配方法](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483869&idx=1&sn=6e0eea41b1eef97854afa3211c4d39ff&chksm=c15afb32f62d722471f63f6f55baf5badf216f0e4bb83516f35a4567a229184df6b80608af29#rd)
 - [SLMaster第一版可执行软件发布了！](https://mp.weixin.qq.com/s?__biz=MzkxNTY2NDc2OA==&mid=2247483874&idx=1&sn=139634f6d6e8478e637605b6289062d7&chksm=c15afb0df62d721be0b44ff803f6461e9ba4acc57386ef3a8901de7600950021877085bab7d2#rd)
 
-该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，可自行下载。请动动手指在仓库右上角点击**Star**⭐，你的支持是博主不懈的动力。
+该系列的代码库为[SLMaster库](https://github.com/Practice3DVision/SLMaster)👈，有任何问题请提**Issue**。
 
-<!--<p align="center">以下是我的Github统计信息：</p> -->
-<br/>
-<p align="center">
-  <a href="https://github.com/Practice3DVision" class="rich-diff-level-one">
-    <img src="https://readme-stats-server-jackcc.vercel.app/api?username=Practice3DVision&title_color=333&text_color=777" alt="Practice3DVision's Stats" >
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Practice3DVision">
-    <img src="https://badges.strrl.dev/visits/Practice3DVision/Practice3DVision?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Practice3DVision">
-    <img src="https://badges.strrl.dev/years/Practice3DVision?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Practice3DVision?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Practice3DVision?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/Practice3DVision">
-    <img src="https://badges.strrl.dev/gists/Practice3DVision?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/Practice3DVision">
-    <img src="https://badges.strrl.dev/commits/monthly/Practice3DVision?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+如果你喜欢这个项目，请动动手指在仓库右上角点击**Star**⭐并关注我。
+
+###  ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
+
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=Practice3DVision&hide_border=true&show_icons=true&theme=bear&include_all_commits=true&count_private=true)
+
+![](https://raw.githubusercontent.com/Practice3DVision/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Practice3DVision/github-stats-transparent/output/generated/languages.svg)
+
+### ⚡ Visitor count
+![](https://profile-counter.glitch.me/Practice3DVision/count.svg)
